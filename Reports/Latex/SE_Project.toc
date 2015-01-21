@@ -1,0 +1,10 @@
+\select@language {english}
+\contentsline {section}{Introduction}{3}{section*.2}
+\contentsline {section}{Section 1 - Basic Laplace representation}{3}{section*.3}
+\contentsline {subsection}{Uniform weight}{5}{section*.4}
+\contentsline {subsection}{Cotangent weight}{10}{section*.5}
+\contentsline {subsection}{Mean value coordinate}{14}{section*.6}
+\contentsline {section}{Section 2 - Graphical User Interface}{19}{section*.7}
+\contentsline {section}{Conclusion}{43}{section*.8}
+\contentsline {section}{Further Improvement}{44}{section*.9}
+\contentsline {section}{References}{45}{section*.10}
